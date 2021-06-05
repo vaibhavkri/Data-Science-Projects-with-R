@@ -1,2 +1,2 @@
-# Data Science Projects with R
- Datacamp Data Science Projects
+# R_Projects
+R Projects for Data Science
